@@ -82,9 +82,3 @@ The implementation focuses on:
 
 ---
 
-## Input Format
-
-The program reads input from **standard input**.
-
-### Initial Line
-
