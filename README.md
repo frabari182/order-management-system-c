@@ -1,6 +1,6 @@
 # Order Management System (C)
 
-University project developed individually in C.
+Project developed individually in C, as "PROVA FINALE" in "Algoritmi e principi dell'Informatica" at University Politecnico di Milano.
 
 The project implements a discrete-time simulation of an order management system
 for an industrial bakery, including recipe handling, inventory management,
