@@ -1,10 +1,21 @@
 # Order Management System (C)
 
-Final project developed individually in C for the course Algoritmi e Principi dell"Informatica at Politecnico di Milano: 2024/2025
-
-The project implements a discrete-time simulation of an order management system
+Final project developed individually in C:
+the project implements a discrete-time simulation of an order management system
 for an industrial bakery, including recipe handling, inventory management,
 order processing, and periodic delivery scheduling.
+
+---
+
+## Academic Context
+
+- **Course:** Algoritmi e Principi dell'Informatica 
+- **Institution:** Politecnico di Milano  
+- **Academic Year:** 2023/2024 
+
+---
+
+**Instructor:** Prof. Alessandro Barenghi
 
 ---
 
